@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h2> Hey there! I'm Dulan Madhuka Weerathunga. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="1000"/>
+
 <!--
 **Madhuka200044/Madhuka200044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
