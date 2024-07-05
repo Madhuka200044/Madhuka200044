@@ -1,4 +1,8 @@
-<h2> Hey there! I'm Dulan Madhuka Weerathunga. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+<h2>                        Hey there! I'm Dulan Madhuka Weerathunga. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="1000"/>
 
 <!--
